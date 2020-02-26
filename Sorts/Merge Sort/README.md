@@ -1,4 +1,3 @@
-# Algorithms
 # Merge Sort:
 + Divide a list into two halves
 + Sort each half
